@@ -1,0 +1,5 @@
+{
+  "name": "Nice-VideoFusion",
+  "description": "Uma aplicação poderosa para unir, cortar e converter vídeos diretamente no seu navegador usando FFmpeg WASM.",
+  "requestFramePermissions": []
+}
